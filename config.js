@@ -26,7 +26,7 @@ window.Config = {
     },    
     {
       text: 'GitHub',
-      url: 'https://github.com/shaoyouvip/uptime/'
+      url: 'https://github.com/guguji666666'
     },
     {
       text: '博客',
