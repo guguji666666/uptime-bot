@@ -1,7 +1,7 @@
 window.Config = {
 
   // 显示标题
-  SiteName: '鸡窝监控',
+  SiteName: '鸡窝',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
@@ -16,7 +16,7 @@ window.Config = {
   CountDays: 60,
 
   // 是否显示检测站点的链接
-  ShowLink: true,
+  ShowLink: false,
 
   // 导航栏菜单
   Navi: [
