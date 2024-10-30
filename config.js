@@ -22,7 +22,7 @@ window.Config = {
   Navi: [
     {
       text: '主页',
-      url: 'https://uptime.001315.xyz/'
+      url: 'https://upbot.gulaoda.us.kg/'
     },    
     {
       text: 'GitHub',
